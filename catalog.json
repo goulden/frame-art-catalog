@@ -40,8 +40,12 @@
    "license": "CC0 (National Gallery of Art Open Access)",
    "thumb": "thumbs/nga-96688.jpg",
    "image_url": "https://api.nga.gov/iiif/f090d0ad-5d3d-4faf-a63c-8fddd765fb23/full/!3840,3840/0/default.jpg",
-   "content_id": "MY_F0091",
-   "cropped": true
+   "content_id": "MY_F0101",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0091"
+   ]
   },
   {
    "id": "nga-391",
@@ -67,8 +71,12 @@
    "license": "CC0 (The Met Open Access)",
    "thumb": "thumbs/met-435666.jpg",
    "image_url": "https://images.metmuseum.org/CRDImages/ep/original/DT292812.jpg",
-   "content_id": "MY_F0098",
-   "cropped": true
+   "content_id": "MY_F0102",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0098"
+   ]
   },
   {
    "id": "cma-135428",
@@ -198,8 +206,12 @@
    "license": "CC0 (The Met Open Access)",
    "thumb": "thumbs/met-39665.jpg",
    "image_url": "https://images.metmuseum.org/CRDImages/as/original/LC-55_94_1_2_001.jpg",
-   "content_id": "MY_F0095",
-   "cropped": true
+   "content_id": "MY_F0103",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0095"
+   ]
   },
   {
    "id": "nga-61395",
@@ -342,7 +354,12 @@
    "license": "CC0 (National Gallery of Art Open Access)",
    "thumb": "thumbs/nga-111124.jpg",
    "image_url": "https://api.nga.gov/iiif/0ef454d7-7988-4044-81e3-38daf8dbf70e/full/!3840,3840/0/default.jpg",
-   "content_id": null
+   "content_id": "MY_F0104",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0099"
+   ]
   },
   {
    "id": "nga-41657",
@@ -420,11 +437,13 @@
    "license": "CC0 (The Met Open Access)",
    "thumb": "thumbs/met-438100.jpg",
    "image_url": "https://images.metmuseum.org/CRDImages/ep/original/Wrightsman16.jpg",
-   "content_id": "MY_F0054",
+   "content_id": "MY_F0105",
    "cropped": true,
    "replaces": [
-    "MY_F0035"
-   ]
+    "MY_F0035",
+    "MY_F0054"
+   ],
+   "edged": true
   },
   {
    "id": "nga-53124",
@@ -476,8 +495,12 @@
    "license": "CC0 (National Gallery of Art Open Access)",
    "thumb": "thumbs/nga-56597.jpg",
    "image_url": "https://api.nga.gov/iiif/8fc41b7d-58de-4d53-a86d-5d4d4ca12f48/full/!3840,3840/0/default.jpg",
-   "content_id": "MY_F0090",
-   "cropped": true
+   "content_id": "MY_F0106",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0090"
+   ]
   },
   {
    "id": "nga-221200",
@@ -659,11 +682,13 @@
    "license": "CC0 (National Gallery of Art Open Access)",
    "thumb": "thumbs/nga-210038.jpg",
    "image_url": "https://api.nga.gov/iiif/325a5f6f-0f8d-42af-9710-297ef32df080/full/!3840,3840/0/default.jpg",
-   "content_id": "MY_F0055",
+   "content_id": "MY_F0107",
    "cropped": true,
    "replaces": [
-    "MY_F0046"
-   ]
+    "MY_F0046",
+    "MY_F0055"
+   ],
+   "edged": true
   },
   {
    "id": "nga-50883",
@@ -767,11 +792,13 @@
    "license": "CC0 (The Met Open Access)",
    "thumb": "thumbs/met-10554.jpg",
    "image_url": "https://images.metmuseum.org/CRDImages/ad/original/DP140862.jpg",
-   "content_id": "MY_F0056",
+   "content_id": "MY_F0108",
    "cropped": true,
    "replaces": [
-    "MY_F0049"
-   ]
+    "MY_F0049",
+    "MY_F0056"
+   ],
+   "edged": true
   },
   {
    "id": "cma-145124",
@@ -875,8 +902,12 @@
    "license": "CC0 (The Met Open Access)",
    "thumb": "thumbs/met-437589.jpg",
    "image_url": "https://images.metmuseum.org/CRDImages/ep/original/DP146477.jpg",
-   "content_id": "MY_F0086",
-   "cropped": true
+   "content_id": "MY_F0109",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0086"
+   ]
   },
   {
    "id": "nga-59894",
@@ -928,11 +959,13 @@
    "license": "CC0 (National Gallery of Art Open Access)",
    "thumb": "thumbs/nga-59898.jpg",
    "image_url": "https://api.nga.gov/iiif/c0788a80-4d14-4e0a-af63-74f00d8e2140/full/!3840,3840/0/default.jpg",
-   "content_id": "MY_F0057",
+   "content_id": "MY_F0110",
    "cropped": true,
    "replaces": [
-    "MY_F0050"
-   ]
+    "MY_F0050",
+    "MY_F0057"
+   ],
+   "edged": true
   },
   {
    "id": "nga-59905",
@@ -997,8 +1030,12 @@
    "license": "CC0 (The Met Open Access)",
    "thumb": "thumbs/met-10491.jpg",
    "image_url": "https://images.metmuseum.org/CRDImages/ad/original/ADA3628.jpg",
-   "content_id": "MY_F0081",
-   "cropped": true
+   "content_id": "MY_F0111",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0081"
+   ]
   },
   {
    "id": "nga-52952",
@@ -1063,8 +1100,12 @@
    "license": "CC0 (Cleveland Museum of Art Open Access)",
    "thumb": "thumbs/cma-151257.jpg",
    "image_url": "https://openaccess-cdn.clevelandart.org/1983.14/1983.14_print.jpg",
-   "content_id": "MY_F0092",
-   "cropped": true
+   "content_id": "MY_F0112",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0092"
+   ]
   },
   {
    "id": "nga-164923",
@@ -1129,8 +1170,12 @@
    "license": "CC0 (National Gallery of Art Open Access)",
    "thumb": "thumbs/nga-54128.jpg",
    "image_url": "https://api.nga.gov/iiif/b6e9cf0e-fa83-4507-8f96-4199e3d85af5/full/!3840,3840/0/default.jpg",
-   "content_id": "MY_F0082",
-   "cropped": true
+   "content_id": "MY_F0113",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0082"
+   ]
   },
   {
    "id": "nga-52967",
@@ -1143,11 +1188,13 @@
    "license": "CC0 (National Gallery of Art Open Access)",
    "thumb": "thumbs/nga-52967.jpg",
    "image_url": "https://api.nga.gov/iiif/38f8cffe-50a1-43f9-8f8d-50a62195572d/full/!3840,3840/0/default.jpg",
-   "content_id": "MY_F0058",
+   "content_id": "MY_F0114",
    "cropped": true,
    "replaces": [
-    "MY_F0039"
-   ]
+    "MY_F0039",
+    "MY_F0058"
+   ],
+   "edged": true
   },
   {
    "id": "nga-43713",
@@ -1225,11 +1272,13 @@
    "license": "CC0 (National Gallery of Art Open Access)",
    "thumb": "thumbs/nga-93464.jpg",
    "image_url": "https://api.nga.gov/iiif/e29393c7-cdc5-431b-b3ca-7999e7205d05/full/!3840,3840/0/default.jpg",
-   "content_id": "MY_F0059",
+   "content_id": "MY_F0115",
    "cropped": true,
    "replaces": [
-    "MY_F0052"
-   ]
+    "MY_F0052",
+    "MY_F0059"
+   ],
+   "edged": true
   },
   {
    "id": "nga-72886",
@@ -1567,8 +1616,12 @@
    "license": "CC0 (National Gallery of Art Open Access)",
    "thumb": "thumbs/nga-52202.jpg",
    "image_url": "https://api.nga.gov/iiif/56303f18-6101-4d5d-9b03-20b58d657afa/full/!3840,3840/0/default.jpg",
-   "content_id": "MY_F0096",
-   "cropped": true
+   "content_id": "MY_F0116",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0096"
+   ]
   },
   {
    "id": "cma-150038",
@@ -1607,11 +1660,13 @@
    "license": "CC0 (Cleveland Museum of Art Open Access)",
    "thumb": "thumbs/cma-115405.jpg",
    "image_url": "https://openaccess-cdn.clevelandart.org/1936.19/1936.19_print.jpg",
-   "content_id": "MY_F0060",
+   "content_id": "MY_F0117",
    "cropped": true,
    "replaces": [
-    "MY_F0034"
-   ]
+    "MY_F0034",
+    "MY_F0060"
+   ],
+   "edged": true
   },
   {
    "id": "nga-46624",
@@ -1780,8 +1835,12 @@
    "license": "CC0 (Cleveland Museum of Art Open Access)",
    "thumb": "thumbs/cma-141168.jpg",
    "image_url": "https://openaccess-cdn.clevelandart.org/1964.420/1964.420_print.jpg",
-   "content_id": "MY_F0084",
-   "cropped": true
+   "content_id": "MY_F0118",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0084"
+   ]
   },
   {
    "id": "nga-53139",
@@ -1989,11 +2048,13 @@
    "license": "CC0 (The Met Open Access)",
    "thumb": "thumbs/met-436952.jpg",
    "image_url": "https://images.metmuseum.org/CRDImages/ep/original/DT1931.jpg",
-   "content_id": "MY_F0061",
+   "content_id": "MY_F0119",
    "cropped": true,
    "replaces": [
-    "MY_F0038"
-   ]
+    "MY_F0038",
+    "MY_F0061"
+   ],
+   "edged": true
   },
   {
    "id": "met-36153",
@@ -2058,8 +2119,12 @@
    "license": "CC0 (National Gallery of Art Open Access)",
    "thumb": "thumbs/nga-61374.jpg",
    "image_url": "https://api.nga.gov/iiif/7372b15a-3830-43bf-8c41-4836619312b7/full/!3840,3840/0/default.jpg",
-   "content_id": "MY_F0088",
-   "cropped": true
+   "content_id": "MY_F0120",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0088"
+   ]
   },
   {
    "id": "cma-148968",
@@ -2085,11 +2150,13 @@
    "license": "CC0 (National Gallery of Art Open Access)",
    "thumb": "thumbs/nga-39772.jpg",
    "image_url": "https://api.nga.gov/iiif/13371c7c-eec7-4f29-be22-c0e0f63b5ffa/full/!3840,3840/0/default.jpg",
-   "content_id": "MY_F0062",
+   "content_id": "MY_F0121",
    "cropped": true,
    "replaces": [
-    "MY_F0047"
-   ]
+    "MY_F0047",
+    "MY_F0062"
+   ],
+   "edged": true
   },
   {
    "id": "nga-46579",
@@ -2258,11 +2325,13 @@
    "license": "CC0 (Cleveland Museum of Art Open Access)",
    "thumb": "thumbs/cma-150051.jpg",
    "image_url": "https://openaccess-cdn.clevelandart.org/1980.262/1980.262_print.jpg",
-   "content_id": "MY_F0063",
+   "content_id": "MY_F0122",
    "cropped": true,
    "replaces": [
-    "MY_F0044"
-   ]
+    "MY_F0044",
+    "MY_F0063"
+   ],
+   "edged": true
   },
   {
    "id": "nga-164915",
@@ -2301,11 +2370,13 @@
    "license": "CC0 (The Met Open Access)",
    "thumb": "thumbs/met-11329.jpg",
    "image_url": "https://images.metmuseum.org/CRDImages/ad/original/ap74.24.jpg",
-   "content_id": "MY_F0064",
+   "content_id": "MY_F0123",
    "cropped": true,
    "replaces": [
-    "MY_F0045"
-   ]
+    "MY_F0045",
+    "MY_F0064"
+   ],
+   "edged": true
   },
   {
    "id": "cma-91231",
@@ -2331,11 +2402,13 @@
    "license": "CC0 (The Met Open Access)",
    "thumb": "thumbs/met-11395.jpg",
    "image_url": "https://images.metmuseum.org/CRDImages/ad/original/DT1548.jpg",
-   "content_id": "MY_F0065",
+   "content_id": "MY_F0124",
    "cropped": true,
    "replaces": [
-    "MY_F0037"
-   ]
+    "MY_F0037",
+    "MY_F0065"
+   ],
+   "edged": true
   },
   {
    "id": "nga-53129",
@@ -2439,8 +2512,12 @@
    "license": "CC0 (Cleveland Museum of Art Open Access)",
    "thumb": "thumbs/cma-128072.jpg",
    "image_url": "https://openaccess-cdn.clevelandart.org/1950.89/1950.89_print.jpg",
-   "content_id": "MY_F0089",
-   "cropped": true
+   "content_id": "MY_F0125",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0089"
+   ]
   },
   {
    "id": "met-11909",
@@ -2518,11 +2595,13 @@
    "license": "CC0 (Cleveland Museum of Art Open Access)",
    "thumb": "thumbs/cma-125234.jpg",
    "image_url": "https://openaccess-cdn.clevelandart.org/1947.196/1947.196_print.jpg",
-   "content_id": "MY_F0066",
+   "content_id": "MY_F0126",
    "cropped": true,
    "replaces": [
-    "MY_F0048"
-   ]
+    "MY_F0048",
+    "MY_F0066"
+   ],
+   "edged": true
   },
   {
    "id": "cma-115050",
@@ -2743,8 +2822,12 @@
    "license": "CC0 (The Met Open Access)",
    "thumb": "thumbs/met-10796.jpg",
    "image_url": "https://images.metmuseum.org/CRDImages/ad/original/ap1970.58.jpg",
-   "content_id": "MY_F0097",
-   "cropped": true
+   "content_id": "MY_F0127",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0097"
+   ]
   },
   {
    "id": "nga-195131",
@@ -2835,8 +2918,12 @@
    "license": "CC0 (National Gallery of Art Open Access)",
    "thumb": "thumbs/nga-66416.jpg",
    "image_url": "https://api.nga.gov/iiif/bd5664bc-0ccf-4c93-99c7-188b75b2092d/full/!3840,3840/0/default.jpg",
-   "content_id": "MY_F0080",
-   "cropped": true
+   "content_id": "MY_F0128",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0080"
+   ]
   },
   {
    "id": "nga-214122",
@@ -3109,11 +3196,13 @@
    "license": "CC0 (National Gallery of Art Open Access)",
    "thumb": "thumbs/nga-214133.jpg",
    "image_url": "https://api.nga.gov/iiif/d98e041f-d7b8-4dd0-9b62-35965df834af/full/!3840,3840/0/default.jpg",
-   "content_id": "MY_F0067",
+   "content_id": "MY_F0129",
    "cropped": true,
    "replaces": [
-    "MY_F0041"
-   ]
+    "MY_F0041",
+    "MY_F0067"
+   ],
+   "edged": true
   },
   {
    "id": "nga-39759",
@@ -3256,8 +3345,12 @@
    "license": "CC0 (The Met Open Access)",
    "thumb": "thumbs/met-36161.jpg",
    "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP161401.jpg",
-   "content_id": "MY_F0083",
-   "cropped": true
+   "content_id": "MY_F0130",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0083"
+   ]
   },
   {
    "id": "met-11255",
@@ -3465,11 +3558,13 @@
    "license": "CC0 (The Met Open Access)",
    "thumb": "thumbs/met-10944.jpg",
    "image_url": "https://images.metmuseum.org/CRDImages/ad/original/ap85.7.jpg",
-   "content_id": "MY_F0068",
+   "content_id": "MY_F0131",
    "cropped": true,
    "replaces": [
-    "MY_F0051"
-   ]
+    "MY_F0051",
+    "MY_F0068"
+   ],
+   "edged": true
   },
   {
    "id": "nga-3205",
@@ -3547,8 +3642,12 @@
    "license": "CC0 (The Met Open Access)",
    "thumb": "thumbs/met-435775.jpg",
    "image_url": "https://images.metmuseum.org/CRDImages/ep/original/DP169651.jpg",
-   "content_id": "MY_F0093",
-   "cropped": true
+   "content_id": "MY_F0132",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0093"
+   ]
   },
   {
    "id": "nga-75030",
@@ -3626,8 +3725,12 @@
    "license": "CC0 (Cleveland Museum of Art Open Access)",
    "thumb": "thumbs/cma-150027.jpg",
    "image_url": "https://openaccess-cdn.clevelandart.org/1980.241/1980.241_print.jpg",
-   "content_id": "MY_F0087",
-   "cropped": true
+   "content_id": "MY_F0133",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0087"
+   ]
   },
   {
    "id": "nga-220510",
@@ -3874,7 +3977,12 @@
    "license": "CC0 (National Gallery of Art Open Access)",
    "thumb": "thumbs/nga-70987.jpg",
    "image_url": "https://api.nga.gov/iiif/87b960fb-4699-4e53-9964-f5ce5808f936/full/!3840,3840/0/default.jpg",
-   "content_id": null
+   "content_id": "MY_F0134",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0100"
+   ]
   },
   {
    "id": "nga-214116",
@@ -4056,11 +4164,13 @@
    "license": "CC0 (Cleveland Museum of Art Open Access)",
    "thumb": "thumbs/cma-84745.jpg",
    "image_url": "https://openaccess-cdn.clevelandart.org/2022.432/2022.432_print.jpg",
-   "content_id": "MY_F0069",
+   "content_id": "MY_F0135",
    "cropped": true,
    "replaces": [
-    "MY_F0043"
-   ]
+    "MY_F0043",
+    "MY_F0069"
+   ],
+   "edged": true
   },
   {
    "id": "cma-150079",
@@ -4255,8 +4365,12 @@
    "license": "CC0 (The Met Open Access)",
    "thumb": "thumbs/met-436833.jpg",
    "image_url": "https://images.metmuseum.org/CRDImages/ep/original/DT2557.jpg",
-   "content_id": "MY_F0085",
-   "cropped": true
+   "content_id": "MY_F0136",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0085"
+   ]
   },
   {
    "id": "nga-166434",
@@ -4399,8 +4513,12 @@
    "license": "CC0 (National Gallery of Art Open Access)",
    "thumb": "thumbs/nga-52624.jpg",
    "image_url": "https://api.nga.gov/iiif/ed0b70d3-a43b-4a00-89ac-657b7e396689/full/!3840,3840/0/default.jpg",
-   "content_id": "MY_F0094",
-   "cropped": true
+   "content_id": "MY_F0137",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0094"
+   ]
   },
   {
    "id": "cma-124082",
@@ -4478,11 +4596,13 @@
    "license": "CC0 (Cleveland Museum of Art Open Access)",
    "thumb": "thumbs/cma-109973.jpg",
    "image_url": "https://openaccess-cdn.clevelandart.org/1928.580/1928.580_print.jpg",
-   "content_id": "MY_F0070",
+   "content_id": "MY_F0138",
    "cropped": true,
    "replaces": [
-    "MY_F0036"
-   ]
+    "MY_F0036",
+    "MY_F0070"
+   ],
+   "edged": true
   },
   {
    "id": "cma-135185",
@@ -4560,11 +4680,13 @@
    "license": "CC0 (Cleveland Museum of Art Open Access)",
    "thumb": "thumbs/cma-92936.jpg",
    "image_url": "https://openaccess-cdn.clevelandart.org/1922.1132/1922.1132_print.jpg",
-   "content_id": "MY_F0071",
+   "content_id": "MY_F0139",
    "cropped": true,
    "replaces": [
-    "MY_F0033"
-   ]
+    "MY_F0033",
+    "MY_F0071"
+   ],
+   "edged": true
   },
   {
    "id": "nga-178348",
@@ -4629,11 +4751,13 @@
    "license": "CC0 (National Gallery of Art Open Access)",
    "thumb": "thumbs/nga-164936.jpg",
    "image_url": "https://api.nga.gov/iiif/42844276-54e1-4c5d-bf28-21c0bb625732/full/!3840,3840/0/default.jpg",
-   "content_id": "MY_F0072",
+   "content_id": "MY_F0140",
    "cropped": true,
    "replaces": [
-    "MY_F0053"
-   ]
+    "MY_F0053",
+    "MY_F0072"
+   ],
+   "edged": true
   },
   {
    "id": "nga-177774",
@@ -4906,11 +5030,13 @@
    "license": "CC0 (Cleveland Museum of Art Open Access)",
    "thumb": "thumbs/cma-130967.jpg",
    "image_url": "https://openaccess-cdn.clevelandart.org/1953.649/1953.649_print.jpg",
-   "content_id": "MY_F0073",
+   "content_id": "MY_F0141",
    "cropped": true,
    "replaces": [
-    "MY_F0040"
-   ]
+    "MY_F0040",
+    "MY_F0073"
+   ],
+   "edged": true
   },
   {
    "id": "cma-130656",
@@ -4936,8 +5062,12 @@
    "license": "CC0 (National Gallery of Art Open Access)",
    "thumb": "thumbs/nga-93047.jpg",
    "image_url": "https://api.nga.gov/iiif/17b39e53-84e8-4979-a49d-1a11d6ce96b3/full/!3840,3840/0/default.jpg",
-   "content_id": "MY_F0079",
-   "cropped": true
+   "content_id": "MY_F0142",
+   "cropped": true,
+   "edged": true,
+   "replaces": [
+    "MY_F0079"
+   ]
   },
   {
    "id": "met-35986",
