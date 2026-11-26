@@ -5574,7 +5574,8 @@
    "license": "CC BY-SA 4.0",
    "thumb": "thumbs/wc-52.jpg",
    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Caril%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "content_id": null
+   "content_id": "MY_F0165",
+   "cropped": true
   },
   {
    "id": "wc-61",
@@ -5587,7 +5588,8 @@
    "license": "CC BY-SA 4.0",
    "thumb": "thumbs/wc-61.jpg",
    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/COCON_65_X_85_cm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "content_id": null
+   "content_id": "MY_F0168",
+   "cropped": true
   },
   {
    "id": "wc-62",
@@ -5600,7 +5602,8 @@
    "license": "CC BY-SA 3.0",
    "thumb": "thumbs/wc-62.jpg",
    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Corbeta_%27Mar%C3%ADa%27_de_Bilbao_llegando_a_la_Habana.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "content_id": null
+   "content_id": "MY_F0170",
+   "cropped": true
   },
   {
    "id": "wc-65",
@@ -5704,7 +5707,8 @@
    "license": "Public domain",
    "thumb": "thumbs/wc-100.jpg",
    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/1863_-_bierstadt_landers_peak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "content_id": null
+   "content_id": "MY_F0167",
+   "cropped": true
   },
   {
    "id": "wc-102",
@@ -6029,7 +6033,8 @@
    "license": "Public domain",
    "thumb": "thumbs/wc-151.jpg",
    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Hilma_af_Klint_-_no_date_-_Untitled.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "content_id": null
+   "content_id": "MY_F0169",
+   "cropped": true
   },
   {
    "id": "wc-150",
@@ -6042,7 +6047,8 @@
    "license": "Public domain",
    "thumb": "thumbs/wc-150.jpg",
    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Hilma_af_Klint_-_1922_-_Birch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "content_id": null
+   "content_id": "MY_F0166",
+   "cropped": true
   }
  ]
 }
